@@ -1,3 +1,4 @@
 This is text files for GIT reporsitory
 Git : beat
+Hi I am editing this file to see the changes
 
