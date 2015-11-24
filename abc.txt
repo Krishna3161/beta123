@@ -1,0 +1,3 @@
+This is text files for GIT reporsitory
+Git : beat
+
